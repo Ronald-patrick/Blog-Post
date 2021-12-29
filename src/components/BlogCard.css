@@ -1,0 +1,30 @@
+.card img{
+	width: 100%;
+	min-height: 250px;
+}
+.card{
+	width: 350px;
+	min-height: 350px;
+	margin: 10px;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	padding: 10px;
+}
+.card h1{
+	font-size: 1.2rem;
+	margin: 10px 0px;
+	height: 3rem;
+	text-align: center;
+}
+.btn{
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	padding: 5px 20px;
+}
+
+.card-wrapper{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}

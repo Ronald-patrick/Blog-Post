@@ -1,0 +1,26 @@
+.navbar{
+	background-color: black;
+	color: white;
+	display: flex;
+	justify-content: start;
+	align-items: center;
+}
+
+.navmain{
+	display: flex;
+}
+
+.navbar-brand{
+	margin-left: 20px;
+}
+
+.navbar-nav{
+	display: flex;
+	list-style: none;
+}
+
+.nav-link{
+	margin-right: 30px;
+	color: white;
+	text-decoration: none;
+}
