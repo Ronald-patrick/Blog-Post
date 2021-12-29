@@ -17,6 +17,7 @@ const DeletePost = () => {
 				posts.splice(i,1);
 			}
 		}
+		console.log(posts);
 		localStorage.setItem("posts",JSON.stringify(posts));
 
 	}, [])

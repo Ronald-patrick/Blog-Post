@@ -19,8 +19,8 @@ const BlogDetails = () => {
 	return (
 		<div>
 			<div className='topbar'>
-				<Link className='btn' to={`/delete/:${id}`}>Delete Post</Link>
-				<Link className="btn" to={`/update/:${id}`}>Update Post</Link>
+				<Link className='btn' to={`/delete/${id}`}>Delete Post</Link>
+				<Link className="btn" to={`/update/${id}`}>Update Post</Link>
 			</div>
 			<div className='details'>
 				<img src={post.img} alt="Img" />

@@ -60,6 +60,7 @@ let posts = [
 		"body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
 	  },
 ]
+
 if(localStorage.getItem("posts")==null)
 {
 	localStorage.setItem("posts",JSON.stringify(posts));
