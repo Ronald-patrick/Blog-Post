@@ -1,4 +1,4 @@
-Live Developed at  https://peaceful-lewin-041932.netlify.app/
+Live Developed at  https://blog-post-react.netlify.app/
 
 # Getting Started with Create React App
 https://github.com/Ronald-patrick/Blog-Post
